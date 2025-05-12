@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242300470095",
+    "project_id": "pawconnect-b6e7f",
+    "storage_bucket": "pawconnect-b6e7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242300470095:android:4e79cda417f6f189bd7b3a",
+        "android_client_info": {
+          "package_name": "com.example.pc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy2fXbXQG-7hvAUEfiaaZD9eII8AptUAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
